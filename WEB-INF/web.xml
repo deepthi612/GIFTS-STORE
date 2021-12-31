@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>gift</servlet-name>
+<servlet-class>gift</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>gift</servlet-name>
+<url-pattern>/A</url-pattern>
+</servlet-mapping>
+</web-app>
